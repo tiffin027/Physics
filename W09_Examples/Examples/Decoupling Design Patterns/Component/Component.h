@@ -17,6 +17,8 @@ public:
 		// Determine which direction the user is currently
 		// pressing on the joystick...
 		return DIR_NONE;
+		//shit
+		//shit
 	}
 };
 
